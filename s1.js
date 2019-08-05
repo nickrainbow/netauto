@@ -29,3 +29,6 @@ function checkType(arg) {
 
 
 console.log( add( 1, 3) );
+
+
+console.log( 'Rainbow has edited it' );
